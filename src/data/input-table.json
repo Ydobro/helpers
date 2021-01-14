@@ -1,0 +1,1748 @@
+{
+  "dataList": [
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1554247439681n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157823734n1"
+      },
+      "judgment": "55M"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1554247439681n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157836219n1"
+      },
+      "judgment": "212M"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1554247439681n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157849543n1"
+      },
+      "judgment": "300M"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1554247439681n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1571781446471n1"
+      },
+      "judgment": "100M"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1597264137050n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1571781446471n1"
+      },
+      "judgment": "10 / 12 * 300 * current_attach_rate_ + 13 * ( 1 - current_attach_rate_ )"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1597264137050n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157836219n1"
+      },
+      "judgment": "10 / 12 * 300 * current_attach_rate_ + 13 * ( 1 - current_attach_rate_ )"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1597264137050n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157823734n1"
+      },
+      "judgment": "10 / 12 * 300 * current_attach_rate_ + 13 * ( 1 - current_attach_rate_ )"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1597264137050n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157849543n1"
+      },
+      "judgment": "10 / 12 * 300 * current_attach_rate_ + 13 * ( 1 - current_attach_rate_ )"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1592429037941n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157836219n1"
+      },
+      "judgment": "2 * ( 1 - current_attach_rate_ )"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1592429037941n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157823734n1"
+      },
+      "judgment": "2 * ( 1 - current_attach_rate_ )"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1592429037941n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157849543n1"
+      },
+      "judgment": "2 * ( 1 - current_attach_rate_ )"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1592429037941n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1571781446471n1"
+      },
+      "judgment": "2 * ( 1 - current_attach_rate_ )"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1592376643894n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157823734n1"
+      },
+      "judgment": "10.99"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1592376643894n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157836219n1"
+      },
+      "judgment": "10.99"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1592376643894n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157849543n1"
+      },
+      "judgment": "10.99"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1592376643894n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1571781446471n1"
+      },
+      "judgment": "10.99"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1595370151914n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1571781446471n1"
+      },
+      "judgment": "63%"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1595370151914n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157849543n1"
+      },
+      "judgment": "63%"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1595370151914n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157836219n1"
+      },
+      "judgment": "63%"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1595370151914n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157823734n1"
+      },
+      "judgment": "63%"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1580679073753n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157836219n1"
+      },
+      "judgment": null
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1580679073753n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1571781446471n1"
+      },
+      "judgment": null
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1580679073753n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157849543n1"
+      },
+      "judgment": null
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1580679073753n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157823734n1"
+      },
+      "judgment": null
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1592376815503n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157823734n1"
+      },
+      "judgment": "300 / 12 * current_attach_rate_"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1592376815503n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1571781446471n1"
+      },
+      "judgment": "300 / 12 * current_attach_rate_"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1592376815503n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157836219n1"
+      },
+      "judgment": "300 / 12 * current_attach_rate_"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1592376815503n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157849543n1"
+      },
+      "judgment": "300 / 12 * current_attach_rate_"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1599233791734n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157849543n1"
+      },
+      "judgment": "23%"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1599233791734n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1571781446471n1"
+      },
+      "judgment": "23%"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1599233791734n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157823734n1"
+      },
+      "judgment": "23%"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1599233791734n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157836219n1"
+      },
+      "judgment": "23%"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1556738240123n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942683042n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157823734n1"
+      },
+      "judgment": "10"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1556738240123n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942683042n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1571781446471n1"
+      },
+      "judgment": "20"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1556738240123n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942683042n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157836219n1"
+      },
+      "judgment": "10"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1556738240123n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942683042n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157849543n1"
+      },
+      "judgment": "20"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1554247439670n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942683042n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157836219n1"
+      },
+      "judgment": "market_share_start_a * 300%"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1554247439670n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942683042n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157823734n1"
+      },
+      "judgment": "market_share_start_a * 300%"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1554247439670n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942683042n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1571781446471n1"
+      },
+      "judgment": "market_share_start_a * 300%"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1554247439670n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942683042n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157849543n1"
+      },
+      "judgment": "market_share_start_a * 300%"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1555792243168n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942683042n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157836219n1"
+      },
+      "judgment": "emo___average_seat_l * emo___monthly_price_ * ( take_rate___of_sales - 5% ) / peak_ltv_to_upfront_"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1555792243168n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942683042n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1571781446471n1"
+      },
+      "judgment": "emo___average_seat_l * emo___monthly_price_ * ( take_rate___of_sales - 5% ) / peak_ltv_to_upfront_"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1555792243168n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942683042n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157823734n1"
+      },
+      "judgment": "emo___average_seat_l * emo___monthly_price_ * ( take_rate___of_sales - 5% ) / peak_ltv_to_upfront_"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1555792243168n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942683042n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157849543n1"
+      },
+      "judgment": "emo___average_seat_l * emo___monthly_price_ * ( take_rate___of_sales - 5% ) / peak_ltv_to_upfront_"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1592338860635n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942683042n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157836219n1"
+      },
+      "judgment": "200 / 12 * attach_rate_for_well"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1592338860635n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942683042n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157823734n1"
+      },
+      "judgment": "200 / 12 * attach_rate_for_well"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1592338860635n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942683042n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157849543n1"
+      },
+      "judgment": "200 / 12 * attach_rate_for_well"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1592338860635n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942683042n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1571781446471n1"
+      },
+      "judgment": "200 / 12 * attach_rate_for_well"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1591722592339n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942683042n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157849543n1"
+      },
+      "judgment": "2 * ( 1 - attach_rate_for_well )"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1591722592339n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942683042n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1571781446471n1"
+      },
+      "judgment": "2 * ( 1 - attach_rate_for_well )"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1591722592339n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942683042n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157836219n1"
+      },
+      "judgment": "2 * ( 1 - attach_rate_for_well )"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1591722592339n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942683042n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157823734n1"
+      },
+      "judgment": "2 * ( 1 - attach_rate_for_well )"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1591722623177n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942683042n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157823734n1"
+      },
+      "judgment": "10.99"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1591722623177n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942683042n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157849543n1"
+      },
+      "judgment": "10.99"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1591722623177n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942683042n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157836219n1"
+      },
+      "judgment": "10.99"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1591722623177n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942683042n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1571781446471n1"
+      },
+      "judgment": "10.99"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1595369420602n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942683042n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1571781446471n1"
+      },
+      "judgment": "Var med := 45%; Expected2actual ( Expectedtoday: 45% , Years2actual: 10 , Actualmin: med / 1000 , Actual10P: med / 1.13 , Actual50P: med , Actual90P: med * 1.11 , Actualmax: med * 1000 )"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1595369420602n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942683042n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157836219n1"
+      },
+      "judgment": "Var med := 45%; Expected2actual ( Expectedtoday: 45% , Years2actual: 10 , Actualmin: med / 1000 , Actual10P: med / 1.13 , Actual50P: med , Actual90P: med * 1.11 , Actualmax: med * 1000 )"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1595369420602n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942683042n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157849543n1"
+      },
+      "judgment": "Var med := 45%; Expected2actual ( Expectedtoday: 45% , Years2actual: 10 , Actualmin: med / 1000 , Actual10P: med / 1.13 , Actual50P: med , Actual90P: med * 1.11 , Actualmax: med * 1000 )"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1595369420602n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942683042n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157823734n1"
+      },
+      "judgment": "Var med := 45%; Expected2actual ( Expectedtoday: 45% , Years2actual: 2 , Actualmin: med / 1000 , Actual10P: med / 1.13 , Actual50P: med , Actual90P: med * 1.11 , Actualmax: med * 1000 )"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1555792397329n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942683042n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157849543n1"
+      },
+      "judgment": "6 * attach_rate_for_well + 2 * ( 1 - attach_rate_for_well )"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1555792397329n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942683042n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1571781446471n1"
+      },
+      "judgment": "6 * attach_rate_for_well + 2 * ( 1 - attach_rate_for_well )"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1555792397329n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942683042n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157836219n1"
+      },
+      "judgment": "6 * attach_rate_for_well + 2 * ( 1 - attach_rate_for_well )"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1555792397329n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942683042n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157823734n1"
+      },
+      "judgment": "6 * attach_rate_for_well + 2 * ( 1 - attach_rate_for_well )"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1580679073753n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942683042n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1571781446471n1"
+      },
+      "judgment": "Var med := 1.35; Expected2actual ( Expectedtoday: 1.35 , Years2actual: 10 , Actualmin: med / 1000 , Actual10P: med / 1.13 , Actual50P: med , Actual90P: med * 1.11 , Actualmax: med * 1000 )"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1580679073753n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942683042n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157836219n1"
+      },
+      "judgment": "Var med := 1.35; Expected2actual ( Expectedtoday: 1.35 , Years2actual: 10 , Actualmin: med / 1000 , Actual10P: med / 1.13 , Actual50P: med , Actual90P: med * 1.11 , Actualmax: med * 1000 )"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1580679073753n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942683042n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157849543n1"
+      },
+      "judgment": "Var med := 1.35; Expected2actual ( Expectedtoday: 1.35 , Years2actual: 10 , Actualmin: med / 1000 , Actual10P: med / 1.13 , Actual50P: med , Actual90P: med * 1.11 , Actualmax: med * 1000 )"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1580679073753n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942683042n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157823734n1"
+      },
+      "judgment": "Var med := 1.35; Expected2actual ( Expectedtoday: 1.35 , Years2actual: 2 , Actualmin: med / 1000 , Actual10P: med / 1.13 , Actual50P: med , Actual90P: med * 1.11 , Actualmax: med * 1000 )"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1587081422018n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942683042n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157823734n1"
+      },
+      "judgment": "10%"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1587081422018n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942683042n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157836219n1"
+      },
+      "judgment": "10%"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1587081422018n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942683042n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1571781446471n1"
+      },
+      "judgment": "10%"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1587081422018n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942683042n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157849543n1"
+      },
+      "judgment": "10%"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1556738240123n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942711913n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157849543n1"
+      },
+      "judgment": "20"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1556738240123n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942711913n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157823734n1"
+      },
+      "judgment": "10"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1556738240123n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942711913n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157836219n1"
+      },
+      "judgment": "10"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1556738240123n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942711913n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1571781446471n1"
+      },
+      "judgment": "20"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1554247439670n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942711913n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157849543n1"
+      },
+      "judgment": "5%"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1554247439670n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942711913n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157823734n1"
+      },
+      "judgment": "15%"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1554247439670n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942711913n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1571781446471n1"
+      },
+      "judgment": "5%"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1554247439670n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942711913n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157836219n1"
+      },
+      "judgment": "5%"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1555792243168n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942711913n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157849543n1"
+      },
+      "judgment": "emo___average_seat_l * emo___monthly_price_ * peak_contribution_ma / peak_ltv_to_upfront_"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1555792243168n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942711913n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157836219n1"
+      },
+      "judgment": "emo___average_seat_l * emo___monthly_price_ * peak_contribution_ma / peak_ltv_to_upfront_"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1555792243168n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942711913n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157823734n1"
+      },
+      "judgment": "emo___average_seat_l * emo___monthly_price_ * peak_contribution_ma / peak_ltv_to_upfront_"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1555792243168n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942711913n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1571781446471n1"
+      },
+      "judgment": "emo___average_seat_l * emo___monthly_price_ * peak_contribution_ma / peak_ltv_to_upfront_"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1592338860635n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942711913n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157836219n1"
+      },
+      "judgment": "300 / 12 * attach_rate_for_well"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1592338860635n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942711913n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157823734n1"
+      },
+      "judgment": "300 / 12 * attach_rate_for_well"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1592338860635n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942711913n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157849543n1"
+      },
+      "judgment": "300 / 12 * attach_rate_for_well"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1592338860635n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942711913n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1571781446471n1"
+      },
+      "judgment": "300 / 12 * attach_rate_for_well"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1591722592339n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942711913n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1571781446471n1"
+      },
+      "judgment": "2 * ( 1 - attach_rate_for_well )"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1591722592339n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942711913n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157823734n1"
+      },
+      "judgment": "2 * ( 1 - attach_rate_for_well )"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1591722592339n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942711913n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157849543n1"
+      },
+      "judgment": "2 * ( 1 - attach_rate_for_well )"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1591722592339n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942711913n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157836219n1"
+      },
+      "judgment": "2 * ( 1 - attach_rate_for_well )"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1591722623177n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942711913n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157849543n1"
+      },
+      "judgment": "10.99"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1591722623177n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942711913n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157823734n1"
+      },
+      "judgment": "10.99"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1591722623177n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942711913n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157836219n1"
+      },
+      "judgment": "10.99"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1591722623177n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942711913n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1571781446471n1"
+      },
+      "judgment": "10.99"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1595369420602n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942711913n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1571781446471n1"
+      },
+      "judgment": "Var med := 65%; Expected2actual ( Expectedtoday: 63% , Years2actual: 10 , Actualmin: med / 1000 , Actual10P: med / 1.1 , Actual50P: med , Actual90P: med * 1.1 , Actualmax: med * 1000 )"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1595369420602n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942711913n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157849543n1"
+      },
+      "judgment": "Var med := 65%; Expected2actual ( Expectedtoday: 63% , Years2actual: 10 , Actualmin: med / 1000 , Actual10P: med / 1.1 , Actual50P: med , Actual90P: med * 1.1 , Actualmax: med * 1000 )"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1595369420602n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942711913n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157836219n1"
+      },
+      "judgment": "Var med := 65%; Expected2actual ( Expectedtoday: 63% , Years2actual: 10 , Actualmin: med / 1000 , Actual10P: med / 1.1 , Actual50P: med , Actual90P: med * 1.1 , Actualmax: med * 1000 )"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1595369420602n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942711913n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157823734n1"
+      },
+      "judgment": "Var med := 65%; Expected2actual ( Expectedtoday: 63% , Years2actual: 10 , Actualmin: med / 1000 , Actual10P: med / 1.1 , Actual50P: med , Actual90P: med * 1.1 , Actualmax: med * 1000 )"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1555792397329n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942711913n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157849543n1"
+      },
+      "judgment": "48 * attach_rate_for_well + 3 * ( 1 - attach_rate_for_well )"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1555792397329n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942711913n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157823734n1"
+      },
+      "judgment": "48 * attach_rate_for_well + 3 * ( 1 - attach_rate_for_well )"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1555792397329n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942711913n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157836219n1"
+      },
+      "judgment": "48 * attach_rate_for_well + 3 * ( 1 - attach_rate_for_well )"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1555792397329n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942711913n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1571781446471n1"
+      },
+      "judgment": "48 * attach_rate_for_well + 3 * ( 1 - attach_rate_for_well )"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1580679073753n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942711913n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157849543n1"
+      },
+      "judgment": "3 * attach_rate_for_well + 1.5 * ( 1 - attach_rate_for_well )"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1580679073753n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942711913n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157823734n1"
+      },
+      "judgment": "3 * attach_rate_for_well + 1.5 * ( 1 - attach_rate_for_well )"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1580679073753n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942711913n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1571781446471n1"
+      },
+      "judgment": "3 * attach_rate_for_well + 1.5 * ( 1 - attach_rate_for_well )"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1580679073753n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942711913n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157836219n1"
+      },
+      "judgment": "3 * attach_rate_for_well + 1.5 * ( 1 - attach_rate_for_well )"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1587081422018n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942711913n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157849543n1"
+      },
+      "judgment": "50%"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1587081422018n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942711913n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157836219n1"
+      },
+      "judgment": "50%"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1587081422018n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942711913n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1571781446471n1"
+      },
+      "judgment": "50%"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1587081422018n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942711913n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157823734n1"
+      },
+      "judgment": "50%"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1556738240123n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942728415n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157849543n1"
+      },
+      "judgment": "20"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1556738240123n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942728415n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1571781446471n1"
+      },
+      "judgment": "20"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1556738240123n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942728415n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157823734n1"
+      },
+      "judgment": "10"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1556738240123n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942728415n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157836219n1"
+      },
+      "judgment": "10"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1554247439670n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942728415n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157836219n1"
+      },
+      "judgment": "10%"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1554247439670n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942728415n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1571781446471n1"
+      },
+      "judgment": "10%"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1554247439670n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942728415n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157823734n1"
+      },
+      "judgment": "30%"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1554247439670n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942728415n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157849543n1"
+      },
+      "judgment": "10%"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1555792243168n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942728415n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157849543n1"
+      },
+      "judgment": "emo___average_seat_l * emo___monthly_price_ * peak_contribution_ma / peak_ltv_to_upfront_"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1555792243168n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942728415n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157823734n1"
+      },
+      "judgment": "emo___average_seat_l * emo___monthly_price_ * peak_contribution_ma / peak_ltv_to_upfront_"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1555792243168n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942728415n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157836219n1"
+      },
+      "judgment": "emo___average_seat_l * emo___monthly_price_ * peak_contribution_ma / peak_ltv_to_upfront_"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1555792243168n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942728415n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1571781446471n1"
+      },
+      "judgment": "emo___average_seat_l * emo___monthly_price_ * peak_contribution_ma / peak_ltv_to_upfront_"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1592338860635n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942728415n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157836219n1"
+      },
+      "judgment": "400 / 12 * attach_rate_for_well"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1592338860635n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942728415n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1571781446471n1"
+      },
+      "judgment": "400 / 12 * attach_rate_for_well"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1592338860635n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942728415n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157823734n1"
+      },
+      "judgment": "400 / 12 * attach_rate_for_well"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1592338860635n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942728415n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157849543n1"
+      },
+      "judgment": "400 / 12 * attach_rate_for_well"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1591722592339n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942728415n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157849543n1"
+      },
+      "judgment": "3 * ( 1 - attach_rate_for_well )"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1591722592339n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942728415n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157823734n1"
+      },
+      "judgment": "3 * ( 1 - attach_rate_for_well )"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1591722592339n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942728415n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1571781446471n1"
+      },
+      "judgment": "3 * ( 1 - attach_rate_for_well )"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1591722592339n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942728415n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157836219n1"
+      },
+      "judgment": "3 * ( 1 - attach_rate_for_well )"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1591722623177n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942728415n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157823734n1"
+      },
+      "judgment": "10.99"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1591722623177n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942728415n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157849543n1"
+      },
+      "judgment": "10.99"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1591722623177n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942728415n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157836219n1"
+      },
+      "judgment": "10.99"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1591722623177n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942728415n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1571781446471n1"
+      },
+      "judgment": "10.99"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1595369420602n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942728415n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157836219n1"
+      },
+      "judgment": "75%"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1595369420602n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942728415n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157823734n1"
+      },
+      "judgment": "75%"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1595369420602n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942728415n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1571781446471n1"
+      },
+      "judgment": "75%"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1595369420602n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942728415n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157849543n1"
+      },
+      "judgment": "75%"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1555792397329n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942728415n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157836219n1"
+      },
+      "judgment": "60 * attach_rate_for_well + 4 * ( 1 - attach_rate_for_well )"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1555792397329n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942728415n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1571781446471n1"
+      },
+      "judgment": "60 * attach_rate_for_well + 4 * ( 1 - attach_rate_for_well )"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1555792397329n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942728415n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157823734n1"
+      },
+      "judgment": "60 * attach_rate_for_well + 4 * ( 1 - attach_rate_for_well )"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1555792397329n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942728415n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157849543n1"
+      },
+      "judgment": "60 * attach_rate_for_well + 4 * ( 1 - attach_rate_for_well )"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1580679073753n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942728415n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157836219n1"
+      },
+      "judgment": "5 * attach_rate_for_well + 2 * ( 1 - attach_rate_for_well )"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1580679073753n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942728415n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157823734n1"
+      },
+      "judgment": "5 * attach_rate_for_well + 2 * ( 1 - attach_rate_for_well )"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1580679073753n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942728415n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157849543n1"
+      },
+      "judgment": "5 * attach_rate_for_well + 2 * ( 1 - attach_rate_for_well )"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1580679073753n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942728415n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1571781446471n1"
+      },
+      "judgment": "5 * attach_rate_for_well + 2 * ( 1 - attach_rate_for_well )"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1587081422018n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942728415n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157836219n1"
+      },
+      "judgment": "75%"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1587081422018n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942728415n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1571781446471n1"
+      },
+      "judgment": "75%"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1587081422018n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942728415n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157823734n1"
+      },
+      "judgment": "75%"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1587081422018n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942728415n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157849543n1"
+      },
+      "judgment": "75%"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1555713891486n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1555784998816n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942683042n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942683042n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157823734n1"
+      },
+      "judgment": "30%"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1555713891486n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1555784998816n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942683042n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942683042n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157849543n1"
+      },
+      "judgment": "90%"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1555713891486n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1555784998816n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942683042n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942683042n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157836219n1"
+      },
+      "judgment": "90%"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1555713891486n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1555784998816n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942683042n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942683042n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1571781446471n1"
+      },
+      "judgment": "90%"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1555713891486n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1555784998816n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942683042n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942711913n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157823734n1"
+      },
+      "judgment": "60%"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1555713891486n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1555784998816n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942683042n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942711913n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157849543n1"
+      },
+      "judgment": "10%"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1555713891486n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1555784998816n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942683042n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942711913n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157836219n1"
+      },
+      "judgment": "10%"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1555713891486n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1555784998816n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942683042n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942711913n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1571781446471n1"
+      },
+      "judgment": "10%"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1555713891486n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1555784998816n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942683042n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942728415n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157849543n1"
+      },
+      "judgment": "0%"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1555713891486n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1555784998816n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942683042n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942728415n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1571781446471n1"
+      },
+      "judgment": "0%"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1555713891486n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1555784998816n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942683042n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942728415n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157823734n1"
+      },
+      "judgment": "10%"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1555713891486n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1555784998816n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942683042n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942728415n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157836219n1"
+      },
+      "judgment": "0%"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1555713891486n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1555784998816n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942711913n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942683042n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157823734n1"
+      },
+      "judgment": "'NA'"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1555713891486n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1555784998816n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942711913n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942683042n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157849543n1"
+      },
+      "judgment": "30%"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1555713891486n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1555784998816n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942711913n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942683042n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157836219n1"
+      },
+      "judgment": "30%"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1555713891486n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1555784998816n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942711913n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942683042n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1571781446471n1"
+      },
+      "judgment": "50%"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1555713891486n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1555784998816n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942711913n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942711913n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157823734n1"
+      },
+      "judgment": "'NA'"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1555713891486n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1555784998816n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942711913n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942711913n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1571781446471n1"
+      },
+      "judgment": "40%"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1555713891486n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1555784998816n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942711913n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942711913n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157836219n1"
+      },
+      "judgment": "60%"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1555713891486n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1555784998816n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942711913n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942711913n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157849543n1"
+      },
+      "judgment": "60%"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1555713891486n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1555784998816n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942711913n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942728415n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1571781446471n1"
+      },
+      "judgment": "10%"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1555713891486n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1555784998816n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942711913n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942728415n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157849543n1"
+      },
+      "judgment": "10%"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1555713891486n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1555784998816n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942711913n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942728415n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157823734n1"
+      },
+      "judgment": "'NA'"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1555713891486n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1555784998816n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942711913n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942728415n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157836219n1"
+      },
+      "judgment": "10%"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1555713891486n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1555784998816n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942728415n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942683042n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157849543n1"
+      },
+      "judgment": "20%"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1555713891486n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1555784998816n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942728415n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942683042n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1571781446471n1"
+      },
+      "judgment": "20%"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1555713891486n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1555784998816n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942728415n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942683042n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157836219n1"
+      },
+      "judgment": "20%"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1555713891486n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1555784998816n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942728415n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942683042n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157823734n1"
+      },
+      "judgment": "'NA'"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1555713891486n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1555784998816n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942728415n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942711913n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157836219n1"
+      },
+      "judgment": "50%"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1555713891486n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1555784998816n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942728415n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942711913n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1571781446471n1"
+      },
+      "judgment": "60%"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1555713891486n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1555784998816n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942728415n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942711913n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157849543n1"
+      },
+      "judgment": "50%"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1555713891486n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1555784998816n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942728415n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942711913n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157823734n1"
+      },
+      "judgment": "'NA'"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1555713891486n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1555784998816n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942728415n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942728415n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1571781446471n1"
+      },
+      "judgment": "20%"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1555713891486n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1555784998816n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942728415n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942728415n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157836219n1"
+      },
+      "judgment": "30%"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1555713891486n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1555784998816n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942728415n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942728415n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157823734n1"
+      },
+      "judgment": "'NA'"
+    },
+    {
+      "dataMap": {
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1",
+        "http://www.w3.org/2000/01/rdf-schema#subClassOf": "http://dev.clados.com/owl/Expectation.owl#Resource1555713891486n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1555784998816n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942728415n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "http://dev.clados.com/owl/Expectation.owl#Resource1540942728415n1",
+        "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "http://dev.clados.com/owl/Expectation.owl#Resource1551157849543n1"
+      },
+      "judgment": "30%"
+    }
+  ],
+  "labels": {
+    "http://dev.clados.com/owl/Expectation.owl#Resource1595370151914n1": "Current take rate",
+    "http://dev.clados.com/owl/Expectation.owl#Resource1551157836219n1": "Other Knowledge Workers in Current Countries",
+    "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1": "Market Differentiation",
+    "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": "Market",
+    "http://dev.clados.com/owl/Expectation.owl#Resource1571781446471n1": "Knowledge Workers in China",
+    "http://dev.clados.com/owl/Expectation.owl#Resource1597187423804n1": "Project Bravo, Inc.",
+    "http://dev.clados.com/owl/Expectation.owl#Resource1556738240123n1": "Years to peak",
+    "http://dev.clados.com/owl/Expectation.owl#Resource1597264137050n1": "Current CAC per new MAU",
+    "http://dev.clados.com/owl/Expectation.owl#Resource1592338860635n1": "Peak monthly subscription fee per MAU",
+    "http://dev.clados.com/owl/Expectation.owl#Resource1540942711913n1": "Material improvement",
+    "http://dev.clados.com/owl/Expectation.owl#Resource1540942683042n1": "Not material",
+    "http://www.w3.org/2000/01/rdf-schema#subClassOf": "Issue",
+    "http://dev.clados.com/owl/Expectation.owl#Resource1595369420602n1": "Peak take rate",
+    "http://dev.clados.com/owl/Expectation.owl#Resource1555792397329n1": "MAU lifetime in months",
+    "http://dev.clados.com/owl/Expectation.owl#NamedIndex1555784998816n1": "Previous Market Differentiation",
+    "http://dev.clados.com/owl/Expectation.owl#Resource1554247439670n1": "Peak market share",
+    "http://dev.clados.com/owl/Expectation.owl#Resource1587081422018n1": "Peak enterprise % of MAU",
+    "http://dev.clados.com/owl/Expectation.owl#NamedIndex1435181524978n1": "Company",
+    "http://dev.clados.com/owl/Expectation.owl#Resource1555713891486n1": "Odds of market differentiation conditional on previous market differentiation",
+    "http://dev.clados.com/owl/Expectation.owl#Resource1592376815503n1": "Current monthly subscription fee per MAU",
+    "http://dev.clados.com/owl/Expectation.owl#Resource1591722592339n1": "Peak monthly course purchases per MAU",
+    "http://dev.clados.com/owl/Expectation.owl#Resource1591722623177n1": "Peak price per course",
+    "http://dev.clados.com/owl/Expectation.owl#Resource1551157823734n1": "Trailblazing Techies & Proactive Professionals in Current Countries",
+    "http://dev.clados.com/owl/Expectation.owl#Resource1555792243168n1": "Peak CAC per new MAU",
+    "http://dev.clados.com/owl/Expectation.owl#Resource1599233791734n1": "Current enterprise % of MAU",
+    "http://dev.clados.com/owl/Expectation.owl#Resource1592429037941n1": "Current monthly course purchases per MAU",
+    "http://dev.clados.com/owl/Expectation.owl#Resource1554247439681n1": "Prospective MAU",
+    "http://dev.clados.com/owl/Expectation.owl#Resource1551157849543n1": "Knowledge Workers in Other Countries ex. China",
+    "http://dev.clados.com/owl/Expectation.owl#Resource1540942728415n1": "Radical improvement",
+    "http://dev.clados.com/owl/Expectation.owl#Resource1580679073753n1": "Peak LTV to CAC by company, market, and value proposition",
+    "http://dev.clados.com/owl/Expectation.owl#Resource1592376643894n1": "Current price per course"
+  },
+  "metaData": {
+    "rows": [
+      "http://dev.clados.com/owl/Expectation.owl#NamedIndex1555784998816n1",
+      "http://dev.clados.com/owl/Expectation.owl#NamedIndex1540942891083n1",
+      "http://www.w3.org/2000/01/rdf-schema#subClassOf"
+    ],
+    "cols": {
+      "http://dev.clados.com/owl/Expectation.owl#NamedIndex1551157915348n1": [
+        "http://dev.clados.com/owl/Expectation.owl#Resource1551157823734n1",
+        "http://dev.clados.com/owl/Expectation.owl#Resource1551157836219n1",
+        "http://dev.clados.com/owl/Expectation.owl#Resource1551157849543n1",
+        "http://dev.clados.com/owl/Expectation.owl#Resource1571781446471n1"
+      ]
+    }
+  }
+}
