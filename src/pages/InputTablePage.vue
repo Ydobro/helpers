@@ -1,7 +1,9 @@
 <template>
   <div class="page page--input-table">
-    <h1 class="page-title">Input Table Page</h1>
-    <InputTable />
+    <div class="container">
+      <h1 class="page-title">Input Table Page</h1>
+      <InputTable />
+    </div>
   </div>
 </template>
 
