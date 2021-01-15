@@ -1,15 +1,19 @@
 <template>
-  <InputTable />
+  <div class="site-header">
+    <nav>
+      <router-link :to="{ name: 'Home' }">Home</router-link> |
+      <router-link :to="{ name: 'InputTable' }">Input Table</router-link>
+    </nav>
+  </div>
+
+  <div class="site-content">
+    <router-view />
+  </div>
 </template>
 
 <script>
-import InputTable from './components/InputTable.vue'
-
 export default {
   name: 'App',
-  components: {
-    InputTable
-  }
 }
 </script>
 
@@ -22,6 +26,11 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
+}
+
+.site-header {
+  padding: 20px 0;
+  border-bottom: 1px solid #e6e6e6;
 }
 
 table, th, td {
