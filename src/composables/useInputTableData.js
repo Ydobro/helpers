@@ -1,14 +1,5 @@
 import { computed } from 'vue'
-import { InputTableCellTypes } from '@/common/enums'
-
-class InputTableCell {
-  constructor(key, label, type, options = null) {
-    this.key = key
-    this.label = label
-    this.type = type
-    this.options = options
-  }
-}
+import { InputTableRowCell, InputTableColCell } from '@/models/inputTable'
 
 export default function useInputTableData(data) {
   const { metaData, labels, dataList } = data
@@ -18,13 +9,13 @@ export default function useInputTableData(data) {
    * Prepare header
    */
   const tableHeader = computed(() => {
-    const namedRows = rows.map((row) => new InputTableCell(row, getLabelByKey(row), InputTableCellTypes.ROW))
+    const namedRows = rows.map((row) => new InputTableRowCell(row, getLabelByKey(row)))
     const namedCols = []
 
     Object.entries(cols).map(([key, values]) => {
-      namedCols.push(new InputTableCell(key, getLabelByKey(key), InputTableCellTypes.COL))
+      namedCols.push(new InputTableColCell(key, getLabelByKey(key)))
       values.forEach(value => {
-        namedCols.push(new InputTableCell(value, getLabelByKey(value), InputTableCellTypes.COL))
+        namedCols.push(new InputTableColCell(value, getLabelByKey(value)))
       })
     })
 
@@ -46,17 +37,17 @@ export default function useInputTableData(data) {
     while (dataListItems.length) {
       let row = []
 
-      const labelsArr = new Array(judgmentIndex).fill(new InputTableCell('', '', InputTableCellTypes.ROW)) // Empty label arrays
-      const judgmentCell = new InputTableCell('judgment', 'judgment', InputTableCellTypes.COL)
+      const labelsArr = new Array(judgmentIndex).fill(new InputTableRowCell('', '')) // Empty label arrays
+      const judgmentCell = new InputTableColCell('judgment', 'judgment')
       const valuesArr = [...dataListItems.splice(0, valuesTableLength)].map((item, index) => {
-        return new InputTableCell(index, item.judgment, InputTableCellTypes.COL, item)
+        return new InputTableColCell(index, item.judgment, item)
       })
 
       // Fill current Empty row labels:
       Object.entries(valuesArr[0].options.dataMap).map(([key, value]) => {
         const cellIndex = getHeaderCellIndexByKey(key)
         if (cellIndex !== -1) {
-          labelsArr[cellIndex] = new InputTableCell(key, getLabelByKey(value), InputTableCellTypes.ROW)
+          labelsArr[cellIndex] = new InputTableRowCell(key, getLabelByKey(value))
         }
       })
 
